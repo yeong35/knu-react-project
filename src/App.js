@@ -10,16 +10,11 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. 이건 수업에서 배웠어!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-        </a>
+        <p>안녕하세요 이수업에 아는사람이 너무 많아요 ㅠ.ㅠ</p>
+        <p>안녕하세요 자바수업이 그리워요 ㅜ.ㅠ</p>
+        Learn React
       </header>
-    </div>
+    </div >
   );
 }
 
